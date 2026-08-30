@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/types.ts","./src/vite-env.d.ts","./src/components/Hero.tsx","./src/components/InteractiveCake.tsx","./src/components/LetterAndCustomizeModal.tsx","./src/components/MemoriesAndCoupons.tsx","./src/components/NineteenReasons.tsx","./src/data/birthdayData.ts","./src/utils/audio.ts"],"version":"5.8.3"}
