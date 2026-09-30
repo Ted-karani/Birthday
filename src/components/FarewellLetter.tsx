@@ -2,11 +2,11 @@ import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Heart, X } from "lucide-react";
 
-const LETTER_BODY = `Hey Princess. Im not sure if you'll even see this lmao.
+const LETTER_BODY = `Hey Princess. Im not sure if you'll even see this lmao. today is on 31/Sptember/2026 its almost midnight.
 
-Hope you are doing good. Hope your flu ended and you are ok now. Hope everything is doing better and all and you are really okkk.
+Hope you are doing good. Hope your flu ended and you are ok now. Hope everything is doing better and all and you are really okkk. Hope everything is alright even if ik nursing is driving you nuts dw. Hope everything is ok.
 
-After the break and then you sent me the paragraph and spoke your heart out ig I was in so much. Like so much emotions at once, felt sorry, sad, confused, hurt, relieved, lowkey happy, all emotions and couldn't really express what I would say thats why im sending this rn cause ive some to terms and im ik rnn.
+I just wanted to tell you After the break and then you sent me the paragraph and we broke up in good terms and spoke your heart out ig I was in so much to process in that timeframe yk. Like so much emotions at once, felt sorry, sad, confused, hurt, relieved, lowkey happy, all emotions and couldn't really express what I would say thats why im sending this rn cause ive come to terms and im okk rnn.
 
 We started talking on July 22, I remember that night.
 
@@ -42,7 +42,7 @@ How you were skipping driving school classes and eloping to some local🤣🤣
 
 How we played pool in imessages and it was really fun, didn't let you win fs i still feel you let me have win at some points.
 
-Lemme not get to our imessages texts🤣 i still cherish the moments ig
+Lemme not get to our imessages texts🤣 i still cherish the moments 
 
 Even our WhatsApp texts with Nyot and njeri might be cringe rn but it was fun
 
@@ -60,43 +60,46 @@ Also how your favorite power rangers movie is Dino charge
 
 Also your brother Felix doing his finals this year, wish him the best
 
-I could go on for so long but I just cherished every moment and they all mean so much to me that's why I can't forget for sure and I really enjoyed every single one and you are really special to me
-
-Maybe not in terms of dating rn but as a really special friend.
+I could go on for so long but I just cherished every moment and they all mean so much to me that's why I can't forget for sure and I really enjoyed every single one and you are really special to me, my first love ig.
 
 Elsie ty for all what we shared and even if we had a bucket list with so many stuff still unchecked but doesn't matter rn anyway it was fun making it with you.
 
-I really wanted to know so much about you even what no one cared to know. I had already made so much progress lollll.
+I really wanted to know so much about you even what no one cared to know. I had already made so much progress lol.
 
-Also really wanted we go to movies together since you've never been there I almost bought tickets lmao.
+Also really wanted we go to movies together since you've never been there I almost bought tickets .
 
-At some point we though we were twins lmao
+At some point we though we were twins
 
 Have same music taste it's crazyyyyyy
 
 And many things in common.
 
-And im really glad you liked me.
+And im really glad you liked me despite everything and im more of a homebody ykk i dont party alot and drink or smoke.
 
 I'll still think of you when I listen to Gracie abrams and Noah and Don Toliver and Ed.
 
-Ig after we started dating and I started to notice the distance ig I didn't want to accept it at all. I was in denial so ig I really tried to keep what was sinking afloat by sending many texts, love bombing, reassurances, and I even acted weird at some point idkk but all this was cause of the anxious attachments and ig made me do all that as I didn't know really yk and so much many things which made situation worse. I didn't realize
+Ig after we started dating and I started to notice the distance ig I didn't want to accept it at all. I was in denial so ig I really tried to keep what was sinking afloat by sending many texts, love bombing, reassurances, and I even acted weird at some point idkk but all this was cause of the anxious attachments and ig made me do all that as I didn't know really yk and so much many things which made situation worse. I didn't realize. im not justifying myself thoughhh
 
 Even before the break I had realized this might be gone but didn't want to accept it at really wanted all to work but it's really okkk it didn't work like we wanted which is really ok but atleast we got to share so much.
 
-I mean I wasn't perfect also. This was my first relationship ig I was really nervous and had anxious attachment and really overthought and so much more esp when the spark disappeared and couldn't talk normally and all and pressured to do everything right and that's where I went wrong, disappointed myself couple times and also you, and also really sorry for some stuff might have been overwhelming to you and you didn't like and just couldn't tell me. And we both had our flaws but doesn't matter as much.
+I mean I wasn't perfect also. This was my first relationship ig I was really nervous and had anxious attachment and really overthought and so much more esp when the spark disappeared and couldn't talk normally and all and pressured to do everything right and that's where I went wrong, disappointed myself couple times and also you, and also really sorry for some stuff might have been overwhelming to you and you didn't like and just couldn't tell me. also disappointed you the time i came to your place lmao i was on weed and quite nervous lmaooo. And we both had our flaws at some point but doesn't matter as much.
 
 But I had to accept it was ending and I was really afraid of this from the start but it's easier when I accept it and I'm really Okk with everything rn and come to terms with it. Ik you really cared for me and you were really afraid to hurt my feelings, ty for that and many more things.
 
-Elsie I really love you and appreciate you and care for you, maybe as someone like a really close friend rn. You can always reach out if you ever want to talk, no pressure at all. But what we had was really good even if it had couple of rough parts I did enjoy what was good, what was bad ig it's life and nothing really and has already happened but I could change couple of stuff if I had ability but I can't rnnn and I cried some point cause I saw this coming.
+Elsie I really love you and appreciate you and care for you. You can always reach out if you ever want to talk, no pressure at all. But what we had was really good even if it had couple of rough parts I did enjoy what was good, what was bad ig it's life and nothing really and has already happened but I could change couple of stuff if I had ability but I can't rnnn and I cried some point cause I saw this coming.
 
-Anywayyy thats all I had to say before it's a close to the dating chapter. Im still really glad you are my first kiss i still cherish it and many stuff, even if we did a lot that maybe we shouldn't have.
+Anywayyy thats all I had to say before it's a close to this chapterrrr, sadly, but everything happens for a reason ig . Im still really glad you are my first kiss i still cherish it and many stuff, even if we did a lot that night maybe we shouldn't have.
 
 But I've learnt to accept that the relationship didn't work and it's okay as long you are really comfortable, i just want to see you happy and all.
 
-Oh and btw normally im called karani not Ted but after you called me that normally it just hit different and I liked it it was just a tiny detail i lowkey liked.
+Oh and btw normally im called Karani like normally though both names but mostly Karani not Ted but after you called me Ted normally it just hit different and I liked it it was just a tiny detail i lowkey liked. you can call me whatever though even Teddy.
 
-Ty Elsie stay safe princess.
+Ty Elsie stay safe princess. and ill always cherish you, actual love you the real type of love and care, and i will never forget about a princess I got to call mine at some point in my life.
+goodluck in everythingggg
+and im sure Gladys also liked you <3
+ty for being someone I thanked God for and wrote in my gratitube jar
+
+stay Safe sleepyhead. (hope you dont fall asleep suddenly these days lmao)
 
 Olise wannabe.`;
 
