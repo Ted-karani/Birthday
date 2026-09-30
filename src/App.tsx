@@ -9,6 +9,7 @@ import MemoriesAndCoupons from "@/components/MemoriesAndCoupons";
 import LetterAndCustomizeModal from "@/components/LetterAndCustomizeModal";
 import type { BirthdayReason, LoveCoupon, PolaroidMemory, CustomSettings } from "@/types";
 import { defaultSettings, defaultReasons, defaultCoupons, defaultPolaroids } from "@/data/birthdayData";
+import FarewellLetter from "@/components/FarewellLetter";
 
 const STORAGE_KEYS = {
   settings: "birthday-settings",
@@ -144,6 +145,7 @@ export default function App() {
       >
         <Music className={`w-5 h-5 ${musicPlaying ? "animate-pulse" : ""}`} />
       </motion.button>
+      <FarewellLetter />
 
       <Hero
         settings={settings}
