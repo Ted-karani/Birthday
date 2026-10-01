@@ -2,7 +2,7 @@ import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Heart, X } from "lucide-react";
 
-const LETTER_BODY = `Hey Princess. Im not sure if you'll even see this lmao. today is on 31/Sptember/2026 its almost midnight.
+const LETTER_BODY = `Hey Princess. Im not sure if you'll even see this lmao. today is on 30/Sptember/2026 its almost midnight. You told me you visit this website sometimes this is something i really hope you will see it.
 
 Hope you are doing good. Hope your flu ended and you are ok now. Hope everything is doing better and all and you are really okkk. Hope everything is alright even if ik nursing is driving you nuts dw. Hope everything is ok.
 
@@ -13,7 +13,7 @@ We started talking on July 22, I remember that night.
 I remember everything to the smallest details Princess.
 
 I remember you prefer juice than tea or coffee, I remember how we planned we'd have a tatto date and I remember you wanted a back one and spine one if you'll be ready.
-
+You told me you like cold showers
 I remember how we were talking about pirating movies and crunchy roll for anime and how we'd never pay.
 
 How mbappe would go crazy watching the new Exposito movie where she kisses another dude and ig does more than that.
@@ -22,9 +22,13 @@ I remember you giving me the link to the free Spotify plan for two months, I hav
 
 How you told me you felt when you watched videos of heights and felt scared.
 
+I remember those olise stickers in your room.
+
+I remember how "amazing " you are in fc, (you could have one if i wasnt yapping to you though)
+
 How you felt disappointed when your dye didn't turn out red and turned out brownish. I really like the color though it's still really nice.
 
-I remember you telling me you were watching sterling point and off campus which I never really finished I'll finish it😭
+I remember you telling me you were watching sterling point and recommended off campus which I never really finished I'll finish it😭
 
 I remember your laugh lmaooo, time you made me laugh esp telling me how you were playing charades with Maina and Manu and talking about Nairobi topic Manu said kiroboto kwa kikamba, laughed my ass off ngl.
 
@@ -58,11 +62,28 @@ I hope you still like Pinacolada ice cream and chocolate ganache cake ty for put
 
 Also how your favorite power rangers movie is Dino charge
 
+How you made a certain look like a side eye taht really was cute and funny.
+
+I can replay your voice in my head and ive saved so many vns of yours
+
+And ive saved every photo you sent me and video esp the chicken one the one you were killing the chicken lmao. hio hadi ningolewe msolombo im not deleting it lmfaoo. and even the highschools i lied i deleted them i didnt cause idk i like them.
+
+How you told me im such a Mummys boy and it was so idk i felt really understood
+
+I think I really loved you to point it changed from love to you being a part of me, I really wanted we spend so much time together, really waited for meetups and planned so many places we would go to do fun stuff like karting, remember we were to go to Two rivers in the sunset on the ferris wheel, archery and picnics, making many small memories, photo booth, the laser tag also and just spending time with you even if it meant i just stare directly to your soul. I wanted to do all this so that even if ill die or the day i will, worms will also know your taste. 
+...till were food for worms to eat...
+
 Also your brother Felix doing his finals this year, wish him the best
 
 I could go on for so long but I just cherished every moment and they all mean so much to me that's why I can't forget for sure and I really enjoyed every single one and you are really special to me, my first love ig.
 
 Elsie ty for all what we shared and even if we had a bucket list with so many stuff still unchecked but doesn't matter rn anyway it was fun making it with you.
+
+I really liked that necklace your mum gave you I think genuinely it looks perfect on you.
+
+Also your bracelet esp the one that isnt Kenyan flag it means so much to you thats really cute for your dad.
+
+Also i really wated to say how the night i was in your plac ethen your dad called, yooo I was really idkk it was so sweet. Your dad talked to you like you are besties and venting to you, my dad could neverrr lmao, but it was so cutee and I really likeddd thattt. Im really glad you are still close with Him
 
 I really wanted to know so much about you even what no one cared to know. I had already made so much progress lol.
 
@@ -88,9 +109,9 @@ But I had to accept it was ending and I was really afraid of this from the start
 
 Elsie I really love you and appreciate you and care for you. You can always reach out if you ever want to talk, no pressure at all. But what we had was really good even if it had couple of rough parts I did enjoy what was good, what was bad ig it's life and nothing really and has already happened but I could change couple of stuff if I had ability but I can't rnnn and I cried some point cause I saw this coming.
 
-Anywayyy thats all I had to say before it's a close to this chapterrrr, sadly, but everything happens for a reason ig . Im still really glad you are my first kiss i still cherish it and many stuff, even if we did a lot that night maybe we shouldn't have.
+Anywayyy thats all I had to say before it's a close to this chapterrrr, sadly cause idk i hoped stuff to work lol, but everything happens for a reason ig, and a reason for prosperity for both of us. and im glad all this happened, genuinely. Im still really glad you are my first kiss i still cherish it and many stuff, even if we did a lot that night maybe we shouldn't have.
 
-But I've learnt to accept that the relationship didn't work and it's okay as long you are really comfortable, i just want to see you happy and all.
+But I've learnt to accept that the relationship didn't work and it's okay as long you are really comfortable,also ig I needed to love myself and focus on myself I think i might have lost myself from everything that has been happening in my life recently.( sickness, pressure from dad, many small stuff here and there, school, some projects. i mnormally dont talk about them to people cause idk its weird ) but I just want to see you happy and all.
 
 Oh and btw normally im called Karani like normally though both names but mostly Karani not Ted but after you called me Ted normally it just hit different and I liked it it was just a tiny detail i lowkey liked. you can call me whatever though even Teddy.
 
