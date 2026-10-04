@@ -4,13 +4,13 @@ import { Heart, X } from "lucide-react";
 
 const LETTER_BODY = `Hey Princess. Im not sure if you'll even see this lmao. today is on 30/Sptember/2026 its almost midnight. You told me you visit this website sometimes this is something i really hope you will see it.
 
-Hope you are doing good. Hope your flu ended and you are ok now. Hope everything is doing better and all and you are really okkk. Hope everything is alright even if ik nursing is driving you nuts dw. Hope everything is ok.
+Hope you are doing good. Hope your flu ended and you are ok now. Hope everything is doing better and all and you are really okkk. Hope nothing is disturbing you or stressing youu. Hope everything is alright even if ik nursing is driving you nuts dw. Hope everything is ok.
 
-I just wanted to tell you After the break and then you sent me the paragraph and we broke up in good terms and spoke your heart out ig I was in so much to process in that timeframe yk. Like so much emotions at once, felt sorry, sad, confused, hurt, relieved, lowkey really zoned out, all emotions and couldn't really express what I would say thats why im sending this rn cause ive come to terms and im okk rnn ig.
+I just wanted to tell you some things I really want to talk to you everyday tbh, After the break and then you sent me the paragraph and we broke up in good terms and spoke your heart out, I was in so much to process in that timeframe yk. Like so much emotions at once, felt sorry, sad, confused, hurt, lost,  relieved, lowkey really zoned out, i might start inventing emotions but i felt all emotions and couldn't really express what I would say thats why im sending this rn cause ive come to terms and im okk rnn ig. And what i said i also meant it its not that im changing anything.
 
 We started talking on July 22, I remember that night.
 
-I remember everything to the smallest details Princess, atleast some things.
+I remember everything to the smallest details, atleast some things.
 
 I remember you prefer juice than tea or coffee, I remember how we planned we'd have a tatto date and I remember you wanted a back one and spine one if you'll be ready.
 You told me you like cold showers
@@ -43,8 +43,9 @@ How you told me Sam and cat was your fav Nickelodeon show. and you liked other s
 How we talked and admired Millie Bobbie and her platonic relationship with Noah,
 
 How you were skipping driving school classes and eloping to some local🤣🤣
+fah i just remembered im doing driving also next week, omd
 
-I remember I was really happy after you passed your test, hadi kama its cause of preety priorityyy ahhh.
+I remember I was really happy after you passed your test, hadi kama its cause of your preety priorityyy ahhh.
 
 How we played pool in imessages and it was really fun, didn't let you win fs but I still feel you let me have win at some points.
 
@@ -87,39 +88,39 @@ Also your bracelet esp on your left hand achana na the Jamaican one the other on
 
 Also i really wated to say how the night i was in your place then your dad called, yooo I was really idkk it was so sweet. Your dad talked to you like you are besties and venting to you, my dad could neverrr lmao, but it was so cutee and I really likeddd thattt. Im really glad you are still close with Him
 
-I really wanted to know so much about you even what no one cared to know, to your insecurities and all. I had already made so much progress lol.
+I really wanted to know so much about you even what no one cared to know, even to your insecurities and all. I really wanted to know all this and even the small things just cause i really care and its really wholesome knowing you. I had already made so much progress lol.
 
-Also really wanted we go to movies together since you've never been there I almost bought tickets .
+Also really wanted we go to movies together since you've never been there I almost bought tickets, but returned cause of your busy schedule though.
 
 At some point we though we were twins . Have same music taste it's crazyyyyyy. And many things in common.
 
-And im really glad you liked me despite everything and im more of a homebody ykk i dont party alot and drink or smoke.
+And im really glad you liked me despite everything and im more of a homebody ykk i dont party alot and drink or smoke. And yk its boring to many people when I tell them that but its just who I am ig.
 
 I'll still think of you when I listen to Gracie abrams and Noah and Don Toliver and Ed. 
 
-Ig after we started dating and the white rabbit and I started to notice the distance ig I didn't want to accept it at all. I was in denial so ig I really tried to keep what was sinking afloat by sending many texts, love bombing, reassurances, and I even acted weird at some point idkk but all this was cause of the anxious attachments and ig made me do all that as I didn't know really yk and so much many things which made situation worse. I didn't realize. im not justifying myself thoughhh
+and ik i dont know so much about you, well i wish i did butttt itss alrrrrrr.
 
-Even before the break I had realized this might be gone but didn't want to accept it at really wanted all to work but it's really okkk it didn't work like we wanted which is really ok but atleast we got to share so much.
-
-I mean I wasn't perfect also. This was my first relationship ig I was really nervous and had anxious attachment and really overthought and so much more esp when the spark disappeared and couldn't talk normally and all and pressured to do everything right and that's where I went wrong, disappointed myself couple times and also you, and also really sorry for some stuff might have been overwhelming to you and you didn't like and just couldn't tell me. also disappointed you the time i came to your place lmao i was on weed and quite nervous lmaooo. And we both had our flaws at some point but doesn't matter as much.
-
-But I had to accept it was ending and I was really afraid of this from the start but it's easier when I accept it and I'm really Okk with everything rn and come to terms with it. Ik you really cared for me and you were really afraid to hurt my feelings, ty for that and many more things. Btw so random ik you didnt ask for this but my fav Bible verse is John 14:1 and 14:6. Always wanted to tell you radomly like randomly.
-
-Elsie I really love you and appreciate you and care for you. You can always reach out if you ever want to talk, no pressure at all. But what we had was really good even if it had couple of rough parts I did enjoy what was good, what was bad ig it's life and nothing really and has already happened but I wish I could go back in time  change couple of stuff if I had ability but I can't rnnn and I cried some point cause I saw this coming and after I noticed the ditance late replies I cried cause i was like my babyy has forgotten about me lmaoo, and many more stuff i cant say I cried about and felt bad about. crazy. Im a kid ig.
-
-Anywayyy thats all I had to say before it's a close to this chapterrrr, sadly cause idk i hoped stuff to work and really wanted to, but everything happens for a reason ig, and a reason for prosperity for both of us. and im glad all this happened, genuinely. Im still really glad you are my first kiss i still cherish it and many stuff, even if we did a lot that night maybe we shouldn't have. 
-
-But I've learnt to accept that the relationship didn't work and it's okay as long you are really comfortable,also ig I needed to love myself and focus on myself I think i might have lost myself from everything that has been happening in my life recently.( sickness, pressure from dad, many small stuff here and there, school, some projects, and other stuff. I normally dont talk about them to people cause idk its weird ) but I just want to see you happy and all.
+Ig after we started dating and the white rabbit and I started to notice the distance ig I didn't want to accept it at all. I noticed the delayed responses, and the energy wasnt same. I was in denial so ig I really tried to keep what was sinking afloat by sending many texts, love bombing, reassurances, cringe textssssss and I even acted weird at some point idkk but all this was cause of the anxious attachments and ig made me do all that as I didn't know really yk and so much many things which made situation worse. I didn't realize. im not justifying myself thoughhh. Just that I never thought this would happen.
+my september was a bad month tbh
+Even before the break I had realized this might be gone but didn't want to accept it and I really wanted all to work,  but it's  okkk, it didn't work like we wanted which is  ok but atleast we got to share so much.
+I mean I wasn't perfect also. This was my first relationship, I wasnt the best boyfriend, I was really nervous and had anxious attachment and really overthought,  and sadly im quite insecure, and so much more esp when the spark disappeared and couldn't talk normally and all and pressured to do everything right and that's where I went wrong, disappointed myself couple times and also you, and also really sorry for some stuff might have been overwhelming to you and times ive just pissed you off and you didn't like and just couldn't tell me. also disappointed you the time i came to your place I dont want to go to details but I really look back and im like broooo, broooo wthhh did i doo, cause fs might have changes how you see me from that night. aki i feel like beating myself up when i remember the disasterclass i did like its all my fault. i was on weed and quite nervous lmaooo. I wanted to massage you since you were tired or something, idk do something but i was really nervous idkkkk. but its alrr dw about it.
+i ususally massage my mum lmao
+im literally her pet
+But I had to accept relationship was ending and I was really afraid of this from the start but it's easier when I accept it and I dont want to say im really Okk with everything rn cause ill take some time to get over this and heal cause wahh this was lowkey a hard blow but its def alrrrrrrrr and come to terms with it. Ik you really cared for me and you were really afraid to hurt my feelings, ty for that and many more things. Btw so random ik you didnt ask for this but my fav Bible verse is John 14:1 and 14:6. Always wanted to tell you radomly like randomly.
+Elsie I  love you, saying i love you might just seem as something like people do say or just saying for the plot or something i dont even know what to say but i do, and appreciate you and care for you. You can always reach out if you ever want to talk about literally anything in the world, no pressure at all. But what we had was really good even if it had couple of rough parts I did enjoy what was good, what was bad ig it's life and nothing really and has already happened but I wish I could go back in time  change couple of stuff if I had ability, but that doesnt mean things would have been better but im sure i would try but I can't rnnn and I cried some point cause I saw this coming and after I noticed the ditance late replies, and all thatttt ykkk and  I cried cause i was like my babyy has forgotten about me lmaoo, and yk i really waited for your texts and all, and many more stuff i can say I cried about and felt bad about but its alr i dont even know why im saying ts. crazy. Im a kid ig.
+Anywayyy thats all I had to say before it's a close to this chapterrrr, sadly cause idk i hoped stuff to work and really wanted to and God knows how much i could have fought for things to work but I had to let go cause it would all be some sympathy thing and just wouldnt workkk, and yk everything happens for a reason , and a reason for prosperity for both of us. and im glad all this happened, genuinely. Im still really glad you are my first kiss i still cherish it and many stuff, even if we did a lot that night maybe we shouldn't have. 
+But I've learnt to accept that the relationship didn't work and it's okay as long you are really comfortable and thats whats best for us especially you. Elsie i really want to see you succeed.
+also ig I needed to love myself and focus on myself I think i might have lost myself from everything that has been happening in my life recently omd ive never felt so lost like september everything most of my stuff wasnt working at all like i was kinda depressed, but im not saying you feel pity for me nahhhhhhhhhhh or the relationship did or could have made things worseee for me nahhhhhh, my life has been idkkk( sickness, pressure from dad, many small stuff here and there, school, some projects, and other stuff. I normally dont talk about them to people cause idk its weird, and it was hard to talk to someone but eventually i did talk to someone about it and prayed about it ) but its working out now. im not saying all this to make you feel bad please dont abegg genuinelyall I ask.  and   I just want to see you happy and all. genuinely.
 
 Oh and btw normally im called Karani like normally though both names but mostly Karani not Ted but after you called me Ted normally it just hit different and I liked it it was just a tiny detail i lowkey liked. you can call me whatever though even Teddy.
 
-Ty Elsie stay safe princess. and ill always cherish you, actual love you the real type of love and care, and i will never forget about a princess I got to call mine at some point in my life.
+
+Thankyou Elsie stay safe princess. and ill always cherish you, and i will never forget about a princess I got to call mine at some point in my life.
 goodluck in everythingggg
 and im sure Gladys also liked you <3
 ty for being someone I thanked God for and wrote in my gratitude jar
 
-stay Safe sleepyhead. (hope you dont fall asleep suddenly these days lmao)
-
+If I had to sum it all up — you made an ordinary stretch of my life feel like it mattered. Not because of any one big thing, but because of how much of the small stuff you let me into. I don't need anything back for this, I just didn't want all of that to go unsaid. Take care of yourself, Elsie. Genuinely
 Olise wannabe.`;
 
 export default function FarewellLetter() {
